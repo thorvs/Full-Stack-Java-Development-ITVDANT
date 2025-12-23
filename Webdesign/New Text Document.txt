@@ -6,3 +6,7 @@
     		<div class="box" id="box5"></div>
 
 .p  <div class="p"></div>
+
+in class 
+position relative ,it moves from the fix position to up down left right , it can over lap also means on top ot top 
+absolute means it moves as parent
