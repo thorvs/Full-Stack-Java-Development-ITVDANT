@@ -17,3 +17,4 @@ let be =3
 if (l== be ){
     console.log("It is a Square")
 }
+
